@@ -1,5 +1,3 @@
-# README: Machine Learning Model
-
 ## Project Overview
 This project implements a machine learning pipeline to preprocess data, reduce dimensionality using PCA, train predictive models using Random Forest and XGBoost, and evaluate their performance using standard metrics.
 
